@@ -1,0 +1,71 @@
+body {
+  width: auto;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url("img/cloudy_mountains.jpg"); }
+  body h1 {
+    font-family: 'Hammersmith One', sans-serif;
+    color: white; }
+
+.Klant {
+  padding: 10% 0 8% 0; }
+  .Klant h2 {
+    font-family: 'Hammersmith One', sans-serif;
+    color: white; }
+  .Klant nav {
+    margin: 0;
+    width: 100%;
+    height: 50%;
+    background-color: #0009;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; }
+    .Klant nav ul {
+      margin: 0 auto;
+      width: 50%;
+      height: 30%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'Hammersmith One', sans-serif;
+      list-style: none;
+      font-size: 128%; }
+      .Klant nav ul li a {
+        text-decoration: none;
+        color: lightgrey; }
+        .Klant nav ul li a:hover {
+          color: red;
+          list-style-type: none;
+          transition: 0.8s all; }
+
+.Auto h2 {
+  font-family: 'Hammersmith One', sans-serif;
+  color: white; }
+.Auto nav {
+  margin: 0;
+  width: 100%;
+  height: 50%;
+  background-color: #0009;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center; }
+  .Auto nav ul {
+    margin: 0 auto;
+    width: 50%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Hammersmith One', sans-serif;
+    list-style: none;
+    font-size: 128%; }
+    .Auto nav ul li a {
+      text-decoration: none;
+      color: lightgrey; }
+      .Auto nav ul li a:hover {
+        color: red;
+        list-style-type: none;
+        transition: 0.8s all; }
+
+/*# sourceMappingURL=styles.css.map */
