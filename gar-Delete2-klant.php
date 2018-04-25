@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="nl">
 <head>
-    <meta name="author" content="Aasutosh Kalpoe">
+    <meta name="author" content="Radu Bohm">
     <meta charset="UTF-8">
     <title>gar-Delete2-klant.php</title>
 </head>
